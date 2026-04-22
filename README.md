@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mauricio Macedo 👨‍💻
 
-<!--
-**MMacedoS/MMacedoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Fullstack com experiência em sistemas de gestão (ERP), APIs REST e aplicações web.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- PHP (Laravel)
+- TypeScript / JavaScript
+- Next.js
+- Node.js
+- PostgreSQL / MongoDB / MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experiência
+- Desenvolvimento de sistemas de gestão (ERP)
+- Integração entre sistemas via APIs
+- Implementação de regras de negócio
+
+## 📌 Projetos em destaque
+- Sistema de gerenciamento de reservas
+- Sistema educacional (GeEduc)
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/MmacedoS
